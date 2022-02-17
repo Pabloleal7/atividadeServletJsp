@@ -1,0 +1,18 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JSP - Hello World</title>
+</head>
+<body>
+<h1><%= "APP de Pessoas" %>
+</h1>
+<br/>
+<ul>
+    <li><a href="/app/controlador?acao=cadastrar-pessoas-form">Criar Pessoas</a></li>
+    <li><a href="/app/controlador?acao=listar-pessoas">Listar Pessoas</a></li>
+
+</ul>
+
+</body>
+</html>

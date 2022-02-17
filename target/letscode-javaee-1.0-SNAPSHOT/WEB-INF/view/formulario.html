@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Title</title>
+    <meta charset="UTF-8">
+    <title>Cadastro de usuarios</title>
+</head>
+<body>
+<fieldset> <legend>Formulário de cadastro de usuarios</legend>
+    <form action="http://localhost:8080/app/controlador?acao=cadastrar-pessoas" method="post">
+        <label>Nome</label> <input type="nome" name="nome"/>
+        <label>sobrenome</label> <input type="sobrenome" name="sobrenome"/>
+        <label>idade</label> <input type="number" step="0.01" name="idade"/>
+        <label>Data da compra</label> <input type="date" name="data"/>
+        <button type="submit">Cadastrar</button>
+    </form>
+</fieldset>
+</body>
+</html>

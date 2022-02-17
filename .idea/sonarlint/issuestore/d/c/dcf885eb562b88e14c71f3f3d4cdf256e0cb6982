@@ -1,0 +1,17 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "data".(¸îı”ÿÿÿÿÿ
+O
+java:S1854"9Remove this useless assignment to local variable "idade".(¾å×ı
+S
+java:S1854"=Remove this useless assignment to local variable "sobrenome".(Õ„æõ
+W
+java:S1161":Add the "@Override" annotation above this method signature(ì˜ä—8ŠşÛî/
+D
+java:S1481".Remove this unused "sobrenome" local variable.(Õ„æõ
+@
+java:S1481"*Remove this unused "idade" local variable.(¾å×ı
+D
+java:S1481")Remove this unused "data" local variable.(¸îı”ÿÿÿÿÿ
+f
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(óŞÀ€
